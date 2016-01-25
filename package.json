@@ -1,5 +1,5 @@
 {
-  "name": "docker-tutorial",
+  "name": "ecs-docker-test-app",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
