@@ -1,0 +1,8 @@
+{
+  "name": "docker-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Pedro Teixeira <pedro.teixeira@gmail.com>",
+  "license": "MIT"
+}
